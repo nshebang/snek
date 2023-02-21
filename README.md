@@ -1,4 +1,4 @@
-#snek
+# snek
 A snake clone written in scheme (I didn't really care about purity).
 
 # [PLAY NOW](https://nanombop.github.io/snek) AND GET A FREE [NOTHING]
