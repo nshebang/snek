@@ -1,0 +1,25 @@
+body {
+  background-color: #17141c;
+  margin: auto;
+  max-width: 520px;
+  color: #a692b0;
+  font-family: monospace;
+  font-size: 1.25rem;
+  user-select: none;
+  text-align: center;
+}
+
+canvas {
+  border: 8px solid #a692b0;
+}
+
+a:link, a:visited {
+  color: #a692b0;
+  text-decoration: none;
+  border-bottom: 1px dotted #a692b0;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
